@@ -1,0 +1,8 @@
+{
+  "appId": "com.aks.mycapapp",
+  "appName": "myAppCap",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "dist",
+  "cordova": {}
+}
