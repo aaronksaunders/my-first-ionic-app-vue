@@ -8,30 +8,9 @@ Your First Ionic App: Vue - trying to mimic the [React JS documentation](https:/
 <img src="https://thepracticaldev.s3.amazonaws.com/i/1f2d5fhxgy03apizcing.png"  height="400">
   </p>
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Other Ionic Vue Samples
+- https://github.com/aaronksaunders/ionic4-vue-tabs
+- https://github.com/aaronksaunders/icon-vue
+- https://github.com/aaronksaunders/ionic-vue-picker-sample
+- https://github.com/aaronksaunders/vue-ionic-demo
+- https://github.com/aaronksaunders/capacitor-vue-ionicv4-app
